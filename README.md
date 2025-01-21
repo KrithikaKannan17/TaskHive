@@ -1,2 +1,3 @@
-# TaskHive
-Organize. Prioritize. Conquer 🚀
+# :white_check_mark: TaskHive
+     - Organize. Prioritize. Conquer 🚀
+
