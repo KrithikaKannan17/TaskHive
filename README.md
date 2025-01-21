@@ -1,5 +1,6 @@
 # :white_check_mark: TaskHive
                      - Organize. Prioritize. Conquer 🚀
+                     
 
 ##  **REQUIREMENTS**  
 
@@ -10,6 +11,7 @@
    :pushpin: Pickle module
    
    :pushpin: Any operating system that supports Python (Windows, macOS, Linux)  
+   
 
 ##  **FLOWCHART**
 
@@ -25,6 +27,8 @@
 
 
 ###  **OUTPUT**  
+
+
 #### **When the application runs, the user can:**
 
 :gem: View an empty or previously saved task list.  
@@ -41,6 +45,7 @@
 
 
 ### :warning: **LIMITATIONS**  
+
 
 :arrow_forward: **No Cloud Sync** – Tasks are saved locally, meaning they won’t sync across devices.  
 
