@@ -44,7 +44,7 @@
 :gem: Save tasks to a file and load them later.  
 
 
-### :warning: **LIMITATIONS**  
+## :warning: **LIMITATIONS**  
 
 
 :arrow_forward: **No Cloud Sync** – Tasks are saved locally, meaning they won’t sync across devices.  
