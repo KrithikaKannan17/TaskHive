@@ -26,7 +26,7 @@
 :pencil2: CLEAR ALL TASKS
 
 
-###  **OUTPUT**  
+## **OUTPUT**  
 
 
 #### **When the application runs, the user can:**
