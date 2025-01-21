@@ -2,10 +2,13 @@
                      - Organize. Prioritize. Conquer 🚀
 
 ## :diamonds: **REQUIREMENTS**  
-1. **Software Requirements:**  
+
    :pushpin: Python 3.x  
+   
    :pushpin: Tkinter module
+   
    :pushpin: Pickle module
+   
    :pushpin: Any operating system that supports Python (Windows, macOS, Linux)  
 
 ## :diamonds: **FLOWCHART**
