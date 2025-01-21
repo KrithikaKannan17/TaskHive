@@ -48,6 +48,8 @@
 ### :warning: **LIMITATIONS**  
 
 
+
+
 :arrow_forward: **No Cloud Sync** – Tasks are saved locally, meaning they won’t sync across devices.  
 
 :arrow_forward: **No Due Date or Priority Sorting** – Tasks are displayed in the order they are added without priority levels.  
