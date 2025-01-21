@@ -1,5 +1,5 @@
 # :white_check_mark: TaskHive
-     - Organize. Prioritize. Conquer 🚀
+                     - Organize. Prioritize. Conquer 🚀
 
 ## :diamonds: **REQUIREMENTS**  
 1. **Software Requirements:**  
