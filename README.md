@@ -1,7 +1,7 @@
 # :white_check_mark: TaskHive
                      - Organize. Prioritize. Conquer 🚀
 
-## :diamonds: **REQUIREMENTS**  
+##  **REQUIREMENTS**  
 
    :pushpin: Python 3.x  
    
@@ -11,7 +11,7 @@
    
    :pushpin: Any operating system that supports Python (Windows, macOS, Linux)  
 
-## :diamonds: **FLOWCHART**
+##  **FLOWCHART**
 
 :pencil2: User Selects Actions
 
@@ -24,7 +24,7 @@
 :pencil2: CLEAR ALL TASKS
 
 
-### :diamonds: **OUTPUT**  
+###  **OUTPUT**  
 #### **When the application runs, the user can:**
 
 :gem: View an empty or previously saved task list.  
